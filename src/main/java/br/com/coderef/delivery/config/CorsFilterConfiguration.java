@@ -24,6 +24,4 @@ public class CorsFilterConfiguration {
         bean.setOrder(Ordered.HIGHEST_PRECEDENCE);
         return bean;
     }
-
-
 }
